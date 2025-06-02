@@ -1,0 +1,17 @@
+# Installing
+```
+python -m venv venv
+```
+
+# Activate the virtual environment:
+```
+.\venv\Scripts\Activate.ps1
+
+pip install opencv-python # ini diinstall pertama kali
+```
+
+
+# Run proses
+```
+Python rambu.py
+```
